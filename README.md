@@ -57,3 +57,7 @@ As **CodeBase360** evolves, new functionalities are planned, such as:
 ## 7. Conclusion
 
 **CodeBase360** represents a significant advancement in the **management of technical documentation at the architectural level**. Unlike solutions focused on individual projects, this tool allows the entire company’s infrastructure to be managed, centralizing design docs and automatically generating code. This ability to encompass an entire company’s microservices architecture improves efficiency, quality, and security in the development lifecycle, offering a tangible impact on productivity and cost reduction.
+
+
+
+![Captura de pantalla 2024-09-06 a la(s) 10 08 13 p m](https://github.com/user-attachments/assets/f3aeed34-bf9e-4199-99d4-f610ca7290ae)
